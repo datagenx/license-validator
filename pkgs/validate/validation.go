@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/atulsingh0/license-generator/models"
+	"github.com/datagenx/license-generator/models"
 )
 
 type Slic struct {
